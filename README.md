@@ -1,9 +1,9 @@
-# Fucker 
-Fucker is a simple and light tool for information gathering and capture exact GPS coordinates
+# SPY EYE
+EYE SPY is a simple and light tool for information gathering and capture exact GPS coordinates
 ![image]()
 
-# What is Fucker?
-<p>Fucker is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
+# What is EYE SPY?
+<p>EYE SPY is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
 <ul>
   <li>Longitude</li>
   <li>Latitude</li>
@@ -45,9 +45,9 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/athexhacker/fucker
-cd fucker
-bash fucker.sh
+git clone https://github.com/athexhacker/spyeye
+cd spyeye
+bash spyeye.sh
 ```
 ## Change log:
 Version: 1.3: Remove Ngrok and update cloudflared tunnel
