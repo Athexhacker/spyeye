@@ -54,4 +54,4 @@ Version: 1.3: Remove Ngrok and update cloudflared tunnel
 
 
 ### For More Video subcribe <a href="https://www.youtube.com/@inziXploit444">INZI CYBER ZONE</a>
-<p>Fucker is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+<p>SPY EYE is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
