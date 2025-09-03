@@ -7,14 +7,14 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf '\n ███████╗██████╗ ██╗   ██╗    ███████╗██╗   ██╗███████╗ \n' 
-printf '   ██╔════╝██╔══██╗╚██╗ ██╔╝    ██╔════╝╚██╗ ██╔╝██╔════╝ \n'
-printf '   ███████╗██████╔╝ ╚████╔╝     █████╗   ╚████╔╝ █████╗ \n'
-printf '   ╚════██║██╔═══╝   ╚██╔╝      ██╔══╝    ╚██╔╝  ██╔══╝ \n'
-printf '   ███████║██║        ██║       ███████╗   ██║   ███████╗
-           ╚══════╝╚═╝        ╚═╝       ╚══════╝   ╚═╝   ╚══════╝ \n\n'
+printf '\n ███████╗██████╗ ██╗   ██╗     ███████╗ ██╗   ██╗ ███████╗ \n' 
+printf '   ██╔════╝██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚██╗ ██╔╝ ██╔════╝ \n'
+printf '   ███████╗██████╔╝ ╚████╔╝     █████╗    ╚████╔╝  █████╗ \n'
+printf '   ╚════██║██╔═══╝   ╚██╔╝       ██╔══╝     ╚██╔╝   ██╔══╝ \n'
+printf '   ███████║██║         ██║        ███████╗    ██║    ███████╗
+           ╚══════╝╚═╝         ╚═╝        ╚══════╝    ╚═╝    ╚══════╝ \n\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
-printf " \e[1;93m      Spy Eye Ver 1.3 - by ATHEX [YT - inziXploit444]\e[0m \n"
+printf " \e[1;93m      Spy Eye created by ATHEX [YT - inziXploit444]\e[0m \n"
 printf "\e[1;90m SPY EYE is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
