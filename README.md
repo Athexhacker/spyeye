@@ -1,4 +1,4 @@
-<a href="https://github.com/Athexhacker/camspy"><img src="logo.png" alt="0" border="0" /></a> 
+<a href="https://github.com/Athexhacker/spyeye"><img src="logo.png" alt="0" border="0" /></a> 
 
 # 🕵️ SPY EYE v1.3 - Enhanced Edition
 A powerful reconnaissance and tracking tool for penetration testing and ethical hacking
