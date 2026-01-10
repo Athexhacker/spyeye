@@ -3,7 +3,7 @@
 # 🕵️ SPY EYE v1.3 - Enhanced Edition
 A powerful reconnaissance and tracking tool for penetration testing and ethical hacking
 
-![Geo-Phone] (https://img.shields.io/badge/SPY-EYE-red?style=for-the-badge)
+![Geo-Phone](https://img.shields.io/badge/SPY-EYE-red?style=for-the-badge)
 https://img.shields.io/badge/Version-1.3_Enhanced-blue?style=for-the-badge
 https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge
 https://img.shields.io/badge/License-MIT-green?style=for-the-badge
